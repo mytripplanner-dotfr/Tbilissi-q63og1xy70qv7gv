@@ -1,0 +1,173 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Évasion Relaxante à Tbilissi : Sources Chaudes et Charme Historique",
+  "budget_total": "678 €",
+  "duree": "4 jours",
+  "temps_vol": "8h00 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas dans le Vieux Tbilissi",
+      "legende": "Après votre vol, installez-vous confortablement et laissez-vous charmer par l'atmosphère unique du Vieux Tbilissi. Une balade douce le long des ruelles pavées est parfaite pour une première immersion.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Tbilissi</strong>: Transfert vers votre hôtel dans le centre historique. Profitez du trajet pour admirer les premiers paysages géorgiens.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Déposez vos bagages et prenez un moment pour vous rafraîchir avant de partir à la découverte.",
+        "<strong>🚶‍♂️ Balade dans le Vieux Tbilissi</strong>: Flânez dans les rues pittoresques, découvrez les balcons en bois colorés et imprégnez-vous de l'ambiance locale. Dîner dans un restaurant traditionnel pour goûter les saveurs géorgiennes."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre de Tbilissi est très agréable à explorer à pied. Prévoyez des chaussures confortables pour les pavés."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Détente aux Bains de Soufre et Vues Panoramiques",
+      "legende": "Commencez la journée par une expérience relaxante dans les célèbres bains de soufre, puis prenez de la hauteur pour admirer la ville depuis la forteresse de Narikala, accessible en téléphérique.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>♨️ Bains de Soufre d'Abanotubani</strong>: Offrez-vous un moment de pure détente dans ces bains historiques. L'eau chaude sulfureuse est réputée pour ses vertus thérapeutiques.",
+        "<strong>🚠 Téléphérique vers la Forteresse de Narikala</strong>: Montez sans effort jusqu'à cette ancienne forteresse pour des vues imprenables sur la ville et la rivière Koura.",
+        "<strong>🌳 Promenade au Jardin Botanique National</strong>: Descendez de la forteresse vers le jardin botanique, un havre de paix idéal pour une balade tranquille au milieu de la nature."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Réservez votre bain de soufre à l'avance, surtout si vous souhaitez une salle privée, pour éviter l'attente."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛪",
+      "titre": "Majesté Religieuse et Sérénité en Hauteur",
+      "legende": "Explorez l'impressionnante Cathédrale de la Sainte Trinité, puis échappez à l'agitation urbaine en montant au Parc Mtatsminda pour une vue panoramique et une atmosphère paisible.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale de la Sainte Trinité (Sameba)</strong>: Admirez l'architecture grandiose de l'une des plus grandes cathédrales orthodoxes du monde, symbole de la Géorgie moderne.",
+        "<strong>🚡 Funiculaire de Tbilissi vers le Mont Mtatsminda</strong>: Profitez d'une montée pittoresque pour atteindre le parc Mtatsminda, offrant des vues spectaculaires sur toute la ville.",
+        "<strong>🎡 Détente au Parc Mtatsminda</strong>: Promenez-vous dans ce grand parc d'attractions et de loisirs, idéal pour une balade relaxante ou simplement pour profiter du panorama."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le coucher de soleil depuis le Mont Mtatsminda est un spectacle à ne pas manquer pour des photos mémorables."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Marché aux Trésors et Départ",
+      "legende": "Avant de quitter Tbilissi, plongez dans l'ambiance unique du marché aux puces du Pont Sec pour dénicher des souvenirs, puis savourez un dernier repas géorgien avant votre vol retour.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛍️ Exploration du Marché du Pont Sec (Dry Bridge Market)</strong>: Parcourez ce marché aux puces en plein air, un véritable trésor pour les antiquités, l'artisanat et les souvenirs uniques.",
+        "<strong>🍽️ Dernier repas géorgien</strong>: Dégustez une dernière fois les spécialités locales comme les khinkali ou le khachapuri dans un restaurant typique.",
+        "<strong>✈️ Transfert à l'aéroport de Tbilissi</strong>: Départ pour votre vol retour vers Paris, la tête pleine de souvenirs."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché du Pont Sec est l'endroit idéal pour trouver des cadeaux originaux et des objets d'artisanat local."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "218 €/pers (A/R depuis Paris)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 40 €/pers (transferts aéroport, métro, taxis)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 160 €/pers (40€/jour pour 4 jours, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 210 €/pers (70€/nuit pour 3 nuits en hôtel 3* sur base double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 50 €/pers (bains de soufre, téléphérique, funiculaire, entrées)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Juin",
+      "symbole": "🌸"
+    },
+    {
+      "titre": "Septembre à Octobre",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie locale est le Lari géorgien (GEL). Les cartes de crédit sont acceptées dans la plupart des commerces, mais prévoyez du liquide pour les petits marchés ou taxis.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Aucun visa n'est requis pour les citoyens de l'Union Européenne pour des séjours de moins d'un an.",
+      "symbole": "🛂"
+    },
+    {
+      "titre": "Le géorgien est la langue officielle. Le russe est souvent parlé par les générations plus âgées, et l'anglais est de plus en plus courant dans les zones touristiques.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Les températures sont agréables au printemps et en automne (15-25°C). L'été peut être très chaud. Prévoyez des vêtements adaptés et confortables pour la marche.",
+      "symbole": "☀️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol Paris-Tbilissi",
+      "url": "https://www.kayak.fr/flights/CDG-TBS",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Office du Tourisme de Géorgie",
+      "url": "https://georgia.travel/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun à Tbilissi",
+      "titre": "Tbilisi Transport Company",
+      "url": "https://ttc.com.ge/en/",
+      "symbole": "🚇"
+    },
+    {
+      "legende": "Météo à Tbilissi",
+      "titre": "Météo Tbilissi",
+      "url": "https://www.accuweather.com/fr/ge/tbilisi/29000/weather-forecast/29000",
+      "symbole": "🌤️"
+    }
+  ]
+}
